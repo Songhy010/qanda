@@ -1,0 +1,138 @@
+[
+  {
+    "qs": "The present simple is",
+    "ans": [
+      {
+        "desc": "Present tense",
+        "status": "true"
+      },
+      {
+        "desc": "Past tense",
+        "status": "false"
+      },
+      {
+        "desc": "Future tense",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "How many kind of tense in english",
+    "ans": [
+      {
+        "desc": "3",
+        "status": "false"
+      },
+      {
+        "desc": "12",
+        "status": "true"
+      },
+      {
+        "desc": "18",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "How many group of tense in english",
+    "ans": [
+      {
+        "desc": "1",
+        "status": "false"
+      },
+      {
+        "desc": "3",
+        "status": "true"
+      },
+      {
+        "desc": "2",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "The future the tense are talk about",
+    "ans": [
+      {
+        "desc": "The future",
+        "status": "true"
+      },
+      {
+        "desc": "The past",
+        "status": "false"
+      },
+      {
+        "desc": "The present",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "What is this 'Hello Chanda, How are you?'",
+    "ans": [
+      {
+        "desc": "The word",
+        "status": "false"
+      },
+      {
+        "desc": "The sentence",
+        "status": "true"
+      },
+      {
+        "desc": "The paragraph",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "'Book' in khmer is",
+    "ans": [
+      {
+        "desc": "ឡាន",
+        "status": "false"
+      },
+      {
+        "desc": "ទូរទឹកកក",
+        "status": "false"
+      },
+      {
+        "desc": "សៀវភៅ",
+        "status": "true"
+      }
+    ]
+  },
+  {
+    "qs": "Which one is the tense in Present tense",
+    "ans": [
+      {
+        "desc": "Past simple",
+        "status": "false"
+      },
+      {
+        "desc": "Present perfect simple",
+        "status": "true"
+      },
+      {
+        "desc": "First conditional future",
+        "status": "false"
+      }
+    ]
+  },
+  {
+    "qs": "Which one is the tense in Past tense",
+    "ans": [
+      {
+        "desc": "Past simple",
+        "status": "true"
+      },
+      {
+        "desc": "Present simple",
+        "status": "false"
+      },
+      {
+        "desc": "Past passive",
+        "status": "false"
+      }
+    ]
+  }
+]
